@@ -1,6 +1,8 @@
 <template>
     <div>
-      <router-view></router-view>
+        <div class='headerLeft'></div>
+        <div class='headerSearch'></div>
+        <div class='headerRight'></div>
     </div>
 </template>
 <script>

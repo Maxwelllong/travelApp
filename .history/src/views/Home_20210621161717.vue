@@ -1,16 +1,13 @@
 <!--home-->
 <template>
     <div>
-      <home-search></home-search>
+      
     </div>
 </template>
 <script>
-import homeSearch from './homePage/header-search.vue'
-
+import { component } from 'vue/types/umd'
+component 
 export default {
-    components:{
-      homeSearch
-    },
     data() {
         return{}
     },
