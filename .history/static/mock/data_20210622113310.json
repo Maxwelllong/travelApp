@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "city":"北京"
+            "swiperList":[
+                {
+                    "id":"01",
+                    "imgUrl":"require('@/assets/img/swiper01.png')"
+                },{
+                    "id":"02",
+                    "imgUrl":"require('@/assets/img/swiper02.png')"
+                },{
+                    "id":"03",
+                    "imgUrl":"require('@/assets/img/swiper03.png')"
+                }
+            ],
+        }
+    ]
+}
