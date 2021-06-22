@@ -1,6 +1,6 @@
 <!--city-->
 <template>
-    <div class='city'>
+    <div>
         <city-header></city-header>
         <city-hot></city-hot>
     </div>
@@ -21,7 +21,5 @@ export default {
 }
 </script>
 <style lang='less' scoped>
-.city{
-    background:#ccc;
-}
+
 </style>

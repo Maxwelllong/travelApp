@@ -3,8 +3,8 @@
     {
       "id": 1,
       "title": "json-server",
-      "author": "typicode"
-      
+      "author": "typicode",
+      "address": "@county(true)" 
     }
   ],
   "comments": [
@@ -15,6 +15,6 @@
     }
   ],
   "profile": {
-    "name": "Hdata.json"  
+    "name": "typicode"  
   }
 }
