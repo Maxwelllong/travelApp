@@ -5,7 +5,6 @@
       <home-swiper></home-swiper>
       <home-icons></home-icons>
       <home-activity></home-activity>
-      <home-like></home-like>
     </div>
 </template>
 <script>
