@@ -16,7 +16,6 @@
                 </swiper-slide>
                 <div class="swiper-pagination" slot="pagination"></div>
             </swiper>
-            <div style="clear:both"></div>
       </ul>
     </div> 
 </template>
@@ -93,8 +92,7 @@ export default {
 <style lang='less' scoped>
     .lis{
         width: 100%;
-        height:3.3rem;
-        background: #fff;
+        height:3rem;
         // background: green;
         li{
             width: 25%;

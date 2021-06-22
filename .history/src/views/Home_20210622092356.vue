@@ -1,6 +1,6 @@
 <!--home-->
 <template>
-    <div class='bg'>
+    <div>
       <home-search></home-search>
       <home-swiper></home-swiper>
       <home-icons></home-icons>
@@ -27,7 +27,5 @@ export default {
 }
 </script>
 <style lang='less' scoped>
-.bg{
-  background-color: #f5f5f5;
-}
+
 </style>

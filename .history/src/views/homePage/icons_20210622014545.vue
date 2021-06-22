@@ -94,7 +94,6 @@ export default {
     .lis{
         width: 100%;
         height:3.3rem;
-        background: #fff;
         // background: green;
         li{
             width: 25%;

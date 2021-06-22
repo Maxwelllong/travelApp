@@ -1,24 +1,24 @@
 <!--home-->
 <template>
-    <div class='bg'>
+    <div>
       <home-search></home-search>
       <home-swiper></home-swiper>
       <home-icons></home-icons>
-      <home-activity></home-activity>
+      <home-vaction></home-vaction>
     </div>
 </template>
 <script>
 import homeSearch from './homePage/header-search.vue'
 import homeSwiper from './homePage/Swiper.vue'
 import homeIcons from './homePage/icons.vue'
-import homeActivity from './homePage/activity.vue'
+import homeVaction from './homePage/vacation.vue'
 
 export default {
     components:{
       homeSearch,
       homeSwiper,
       homeIcons,
-      homeActivity
+      homeVaction
     },
     data() {
         return{}
@@ -27,7 +27,5 @@ export default {
 }
 </script>
 <style lang='less' scoped>
-.bg{
-  background-color: #f5f5f5;
-}
+
 </style>

@@ -1,6 +1,6 @@
 <!--home-->
 <template>
-    <div class='bg'>
+    <div>
       <home-search></home-search>
       <home-swiper></home-swiper>
       <home-icons></home-icons>
